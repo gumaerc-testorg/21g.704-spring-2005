@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information about Material, Vocabulario de las
   lecturas, Gram?tica, Tipos de ejercicios.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-704-spanish-iv-spring-2005/7de3e2a467e8c9668a66756f696cbfdf_MIT21G_704S05_sp4_exam1.pdf
+file: /media/courses/21g-704-spanish-iv-spring-2005/7de3e2a467e8c9668a66756f696cbfdf_MIT21G_704S05_sp4_exam1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: "Espa\xF1ol IV - Primavera 2005- Material para el Examen #1"
 uid: 7de3e2a4-67e8-c966-8a66-756f696cbfdf

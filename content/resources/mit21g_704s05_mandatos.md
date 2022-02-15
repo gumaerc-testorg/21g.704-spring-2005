@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains information regarding formaci\xF3n de mandatos\
   \ y verbos reflexivos."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-704-spanish-iv-spring-2005/ca6192d8201d6a437a9a2102d6127988_MIT21G_704S05_mandatos.pdf
+file: /media/courses/21g-704-spanish-iv-spring-2005/ca6192d8201d6a437a9a2102d6127988_MIT21G_704S05_mandatos.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "Formaci\xF3n de mandatos y verbos reflexivos"
 uid: ca6192d8-201d-6a43-7a9a-2102d6127988
