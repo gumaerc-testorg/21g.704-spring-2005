@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: "CLAVE PARA LA CORRECCI\xD3N DE TRABAJOS ESCRITOS"
 uid: 31939444-2ce5-ee2c-558a-9f06e927e25c

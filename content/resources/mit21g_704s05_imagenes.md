@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: "Espa\xF1a de cerca : Im\xE1genes y estereotipos"
 uid: 13234e0a-ab60-9875-27d3-f98e6113c588

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: "Composici\xF3n #2"
 uid: 8db440b0-908e-2a81-2f0d-1b6b9b57936e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 97933b78-e988-c714-561e-5815ad429a23
 resourcetype: Document
 title: "Espa\xF1ol IV - Primavera 2005- Material para el Examen #1"
 uid: 7de3e2a4-67e8-c966-8a66-756f696cbfdf

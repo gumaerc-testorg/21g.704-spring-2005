@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 97933b78-e988-c714-561e-5815ad429a23
 resourcetype: Document
 title: "Espa\xF1ol IV Material para el examen 4"
 uid: d1a846cb-1563-6b2e-4ae8-5ae3bfaf153e

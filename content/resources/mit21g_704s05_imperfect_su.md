@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: "Un se\xF1or muy viejo con unas alas enormes"
 uid: 39ce8ce2-8c46-4155-a722-3828d635586a

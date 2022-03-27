@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 97933b78-e988-c714-561e-5815ad429a23
 resourcetype: Document
 title: "Espa\xF1ol IV- Examen 2"
 uid: 2986c3f5-090d-a7f0-5e16-84145b9437d6

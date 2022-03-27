@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: Los inmigrantes
 uid: 89003d61-4717-6223-c5f6-0dd8253c0f75

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 resourcetype: Document
 title: "Formaci\xF3n de mandatos y verbos reflexivos"
 uid: ca6192d8-201d-6a43-7a9a-2102d6127988
