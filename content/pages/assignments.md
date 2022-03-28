@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 ---
@@ -33,7 +34,7 @@ TAREA
 Introducción y presentación del curso
 {{< tdclose >}}
 {{< tdopen >}}
-[España hoy](http://www.hoy.es/): "Imágenes y estereotipos." Preguntas para la discusión. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_imagenes))
+[España hoy](http://www.hoy.es/): "Imágenes y estereotipos." Preguntas para la discusión. ({{< resource_link 13234e0a-ab60-9875-27d3-f98e6113c588 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Actividad problemas matrimoniales: ser-estar-haber -tener
 {{< tdopen >}}
 
 
-[España hoy](http://www.hoy.es/): Familia y Mujer. Guía de vocabulario y preguntas ([PDF]({{< baseurl >}}/resources/mit21g_704s05_familia_y_mu))
+[España hoy](http://www.hoy.es/): Familia y Mujer. Guía de vocabulario y preguntas ({{< resource_link ae973c34-f37f-03b4-7a95-f9e41b338b0f "PDF" >}})
 
 Anuncio comercial: ¿Sabes Limpiar?
 
@@ -131,7 +132,7 @@ Repaso Subjuntivo
 
 Ver película: _Mujeres al borde de un ataque de nervios_ del director español Pedro Almodóvar.
 
-Hoja del subjuntivo y "Mujeres al borde..." ([PDF]({{< baseurl >}}/resources/mit21g_704s05_subjuntivo)) Para traer por escrito a clase.
+Hoja del subjuntivo y "Mujeres al borde..." ({{< resource_link 96acde6f-c1e7-73f7-fd57-4e989bd52813 "PDF" >}}) Para traer por escrito a clase.
 
 
 {{< tdclose >}}
@@ -153,7 +154,7 @@ Verbos reflexivos (MG, pp. 248-256)
   
 Formas de expresar _to become_ o _to get_ en español (MG_,_ pp. 289-290)
 
-Práctica Mandatos, Subjuntivo y Reflexivos. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_mandatos)) Escribe una carta breve de uno de los personajes de la película "_Mujeres al borde de un ataque de nervios._" a otro, expresando sus sentimientos sobre la otra persona o acusándolo/a, pidiéndole perdón, dando disculpas o explicaciones, consejos, recomendaciones, etc. En esta carta debes incluir:  
+Práctica Mandatos, Subjuntivo y Reflexivos. ({{< resource_link ca6192d8-201d-6a43-7a9a-2102d6127988 "PDF" >}}) Escribe una carta breve de uno de los personajes de la película "_Mujeres al borde de un ataque de nervios._" a otro, expresando sus sentimientos sobre la otra persona o acusándolo/a, pidiéndole perdón, dando disculpas o explicaciones, consejos, recomendaciones, etc. En esta carta debes incluir:  
 5 mandatos (afirmativos y negativos)  
 5 expresiones que requieren el subjuntivo (influencia, emoción, duda, etc.)  
 por lo menos 10 de los verbos reflexivos de la lista.
@@ -250,7 +251,7 @@ Ver película _Diarios de Motocicleta_ . Hay dos DVDs en el LLARC (número del c
 Discutir película: _Diarios de Motocicleta_
 {{< tdclose >}}
 {{< tdopen >}}
-_Voces de inmigrantes_. Escucha dos de estas entrevistas, toma apuntes y ven preparado/a para reportar y hablar sobre las historias de estas personas en clase. Hoja de preguntas. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_vocesinmigra))
+_Voces de inmigrantes_. Escucha dos de estas entrevistas, toma apuntes y ven preparado/a para reportar y hablar sobre las historias de estas personas en clase. Hoja de preguntas. ({{< resource_link f7e0d946-8ace-a96c-cda3-bdf3ba31b09f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +265,7 @@ Voces de inmigrantes / presentaciones y discusión
 {{< tdopen >}}
 
 
-Editorial del escritor peruano Mario Vargas Llosa, Los inmigrantes ([PDF]({{< baseurl >}}/resources/mit21g_704s05_mahony-cardi)). Identifica los argumentos que ofrece sobre el tema de la inmigración. Ven preparado/a para discutirlo en clase. Hoja de Vocabulario y preguntas. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_los_in_v_llo))
+Editorial del escritor peruano Mario Vargas Llosa, Los inmigrantes ({{< resource_link 0486f0cc-cfb6-942d-ff0a-ca7629156a64 "PDF" >}}). Identifica los argumentos que ofrece sobre el tema de la inmigración. Ven preparado/a para discutirlo en clase. Hoja de Vocabulario y preguntas. ({{< resource_link 89003d61-4717-6223-c5f6-0dd8253c0f75 "PDF" >}})
 
 Artículo: _La inmigración en España_ ¿Cuáles son los problemas que enfrenta España? Escucha este reportaje de la BBC sobre la Inmigración latinoamericana en España
 
@@ -298,9 +299,9 @@ _Cajas de cartón_
 
 Poema: _Convocación de palabras_, Tino Villanueva.  Escucha la entrevista a Tino Villanueva.
 
-Composición #1 ([PDF]({{< baseurl >}}/resources/mit21g_704s05_composition1))
+Composición #1 ({{< resource_link f678ef18-6015-9d76-e7c6-d2b2930c3aa9 "PDF" >}})
 
-Clave de corrección para las composiciones ([PDF]({{< baseurl >}}/resources/mit21g_704s05_clave_correc))
+Clave de corrección para las composiciones ({{< resource_link 31939444-2ce5-ee2c-558a-9f06e927e25c "PDF" >}})
 
 
 {{< tdclose >}}
@@ -332,7 +333,7 @@ Formas pasadas del Subjuntivo (MG, pp. 171-173). (2da. edición. pp. 164-166).
 
 Repasar Cláusulas con"si" y Ojalá (MG_,_ pp. 233-235) Ejercicios MG_,_ pp. 407-408 # 6.52; 6.55 y 6.56 Revisar respuestas pp. 478.
 
-Ejercicio: Un señor muy viejo con alas enormes. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_imperfect_su)) Para traer por escrito a clase.
+Ejercicio: Un señor muy viejo con alas enormes. ({{< resource_link 39ce8ce2-8c46-4155-a722-3828d635586a "PDF" >}}) Para traer por escrito a clase.
 
 
 {{< tdclose >}}
@@ -436,11 +437,11 @@ CMA Cap. 4 (págs. 74- 82)
 {{< tdopen >}}
 
 
-Infinitivos y Gerundios (MG_,_ pp. 238-242). Ejercicios (MG, pp. 410 #6.61, 6.62, 6.63, 6.64; 6.67). Ejercicios de práctica ([PDF]({{< baseurl >}}/resources/mit21g_704s05_gerundio_inf))
+Infinitivos y Gerundios (MG_,_ pp. 238-242). Ejercicios (MG, pp. 410 #6.61, 6.62, 6.63, 6.64; 6.67). Ejercicios de práctica ({{< resource_link ecd42bb8-9ff4-a8d0-3bb5-7979d016b49e "PDF" >}})
 
-Pronombres relativos (MG, pp. 99-105. Ejercicios pp. 343, #3.40 y 3.41. Respuestas pp. 463). Ejercicios. ([PDF]({{< baseurl >}}/resources/mit21g_704s05_relativos_cr))
+Pronombres relativos (MG, pp. 99-105. Ejercicios pp. 343, #3.40 y 3.41. Respuestas pp. 463). Ejercicios. ({{< resource_link 9b381bd9-5249-3a61-3b95-47bd001bb357 "PDF" >}})
 
-Composición # 2 ([PDF]({{< baseurl >}}/resources/mit21g_704s05_composition2))
+Composición # 2 ({{< resource_link 8db440b0-908e-2a81-2f0d-1b6b9b57936e "PDF" >}})
 
 
 {{< tdclose >}}
@@ -504,7 +505,7 @@ Preparar defensas
 _CMA_, Actividad Crónica: Juicio Público
 {{< tdclose >}}
 {{< tdopen >}}
-Composición #3: Guión sobre Crónica ([PDF]({{< baseurl >}}/resources/mit21g_704s05_guion_instru))
+Composición #3: Guión sobre Crónica ({{< resource_link cdbc5349-2abf-8692-2edb-038bba6a283e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -682,7 +683,7 @@ Por y Para (MG, pp. 122-125)
 Práctica gramatical: Preposiciones y Por y Para
 {{< tdclose >}}
 {{< tdopen >}}
-Composición # 4 ([PDF]({{< baseurl >}}/resources/mit21g_704s05_composition4))
+Composición # 4 ({{< resource_link eb4035bc-59ef-661f-8e9c-ba18a82be1d6 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
