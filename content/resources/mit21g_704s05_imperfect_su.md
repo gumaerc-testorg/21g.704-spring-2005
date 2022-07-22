@@ -6,6 +6,7 @@ file: /courses/21g-704-spanish-iv-spring-2005/39ce8ce28c464155a7223828d635586a_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Un se\xF1or muy viejo con unas alas enormes"
 uid: 39ce8ce2-8c46-4155-a722-3828d635586a
 ---
 This resource contains information regarding un señor muy viejo con unas alas enormes.
-

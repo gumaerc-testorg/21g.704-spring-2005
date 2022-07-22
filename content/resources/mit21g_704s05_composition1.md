@@ -5,6 +5,7 @@ file: /courses/21g-704-spanish-iv-spring-2005/f678ef1860159d76e7c6d2b2930c3aa9_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Composici\xF3n# 1"
 uid: f678ef18-6015-9d76-e7c6-d2b2930c3aa9
 ---
 This resource contains information regarding composición# 1.
-

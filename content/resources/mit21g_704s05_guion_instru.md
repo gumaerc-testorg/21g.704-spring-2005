@@ -6,6 +6,7 @@ file: /courses/21g-704-spanish-iv-spring-2005/cdbc53492abf86922edb038bba6a283e_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Composici\xF3n # 3: Cr\xF3nica de una muerte anunciada: la pel\xEDcula"
 uid: cdbc5349-2abf-8692-2edb-038bba6a283e
 ---
 This resource contains information regarding composición # 3: crónica de una muerte anunciada: la película.
-

@@ -5,6 +5,7 @@ file: /courses/21g-704-spanish-iv-spring-2005/8db440b0908e2a812f0d1b6b9b57936e_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Composici\xF3n #2"
 uid: 8db440b0-908e-2a81-2f0d-1b6b9b57936e
 ---
 This resource contains information regarding composición #2.
-
