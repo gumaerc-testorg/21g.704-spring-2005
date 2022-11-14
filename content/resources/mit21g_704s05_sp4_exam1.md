@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes information about Material, Vocabulario de las lecturas, Gramática, Tipos de ejercicios.
-
