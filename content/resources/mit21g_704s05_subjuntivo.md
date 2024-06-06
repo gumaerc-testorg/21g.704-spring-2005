@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding mujeres al borde de un ataque
   de nervios.
 file: /courses/21g-704-spanish-iv-spring-2005/96acde6fc1e773f7fd574e989bd52813_MIT21G_704S05_subjuntivo.pdf
+file_size: 91751
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding CLAVE PARA LA CORRECCI\xD3\
   N DE TRABAJOS ESCRITOS."
 file: /courses/21g-704-spanish-iv-spring-2005/319394442ce5ee2c558a9f06e927e25c_MIT21G_704S05_clave_correc.pdf
+file_size: 598911
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding REMARKS OF HIS EMINENCE
   ROGER CARDINAL MAHONY.
 file: /courses/21g-704-spanish-iv-spring-2005/0486f0cccfb6942dff0aca7629156a64_MIT21G_704S05_mahony-cardi.pdf
+file_size: 747806
 file_type: application/pdf
 learning_resource_types:
 - Assignments
