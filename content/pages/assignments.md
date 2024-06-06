@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Assignments
 uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 ---
-Some sessions use video segments from {{% resource_link "85cd8869-7e61-42ab-932c-e760ab9edfef" "España hoy" %}}, an online collection of interviews and resources on contemporary Spanish life. 
+Some sessions use video segments from [España hoy](http://www.hoy.es/), an online collection of interviews and resources on contemporary Spanish life. 
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Día #
@@ -22,7 +22,7 @@ TAREA
 {{< tdclose >}}{{< tdopen >}}
 Introducción y presentación del curso
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "85cd8869-7e61-42ab-932c-e760ab9edfef" "España hoy" %}}: "Imágenes y estereotipos." Preguntas para la discusión. ({{% resource_link 13234e0a-ab60-9875-27d3-f98e6113c588 "PDF" %}})
+[España hoy](http://www.hoy.es/): "Imágenes y estereotipos." Preguntas para la discusión. ({{% resource_link 13234e0a-ab60-9875-27d3-f98e6113c588 "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -41,7 +41,7 @@ Discutir Cuento: *El etnógrafo*
 
 Usos de Ser-Estar-Haber-Tener-Hacer (*Manual de gramática*, MG, Cap. 7. Ejercicios # 7.4, 7.5, 7.7, 7.14, 7.15. pp. 420-428.
 
-Ejercicios adicionales {{% resource_link "ddf3e37e-061b-4cf0-8ddd-db341eb34aa8" "Ser y estar" %}}
+Ejercicios adicionales [Ser y estar](http://babelnet.sbg.ac.at/carlitos/escenario1/Actividades/ser-estar-avanzado/index.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -63,7 +63,7 @@ Actividad problemas matrimoniales: ser-estar-haber -tener
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "85cd8869-7e61-42ab-932c-e760ab9edfef" "España hoy" %}}: Familia y Mujer. Guía de vocabulario y preguntas ({{% resource_link ae973c34-f37f-03b4-7a95-f9e41b338b0f "PDF" %}})
+[España hoy](http://www.hoy.es/): Familia y Mujer. Guía de vocabulario y preguntas ({{% resource_link ae973c34-f37f-03b4-7a95-f9e41b338b0f "PDF" %}})
 
 Anuncio comercial: ¿Sabes Limpiar?
 
@@ -185,7 +185,7 @@ Clave de corrección para las composiciones ({{% resource_link 31939444-2ce5-ee2
 {{< tdclose >}}{{< tdopen >}}
 Poema: *Convocación de palabras*
 {{< tdclose >}}{{< tdopen >}}
-Cuento: *Un señor muy viejo con unas alas enormes*, {{% resource_link "eb16f039-f060-415c-959f-7309ad943df5" "Gabriel García Márquez" %}}. Guía de lectura y vocabulario.
+Cuento: *Un señor muy viejo con unas alas enormes*, [Gabriel García Márquez](http://www.bbc.co.uk/spanish/seriemilenio03.htm). Guía de lectura y vocabulario.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -324,11 +324,11 @@ Examina con cuidado el cuadro "La familia presidencial" del pintor colombiano, F
 
 Artículo: Botero, el debridador. Arte como testimonio de la violencia política en Colombia.
 
-Mira y escucha este reportaje audiovisual "{{% resource_link "036ab5ac-88a4-4458-8746-ed1bb4a9a1a7" "Pintando una guerra" %}}" (en inglés)
+Mira y escucha este reportaje audiovisual "[Pintando una guerra](http://www.nytimes.com/packages/khtml/2004/05/03/arts/20040503_COLOMBIA_AUDIOSS.html)" (en inglés)
 
 Si te interesa saber más sobre este artista colombiano:   
-{{% resource_link "d6aec5e3-e09b-4cd9-b395-b93a16b964b1" "Museo Botero" %}}   
-Nuevo: {{% resource_link "937d8a18-3f30-46a6-b952-372e945a87a9" "Botero pinta el horror de Abu Ghraib" %}}, entrevista a Botero y cuadros de la exposición.
+[Museo Botero](http://www.banrep.gov.co/)   
+Nuevo: [Botero pinta el horror de Abu Ghraib](https://www.eltiempo.com/archivo/documento/MAM-1685402), entrevista a Botero y cuadros de la exposición.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
@@ -336,11 +336,11 @@ Nuevo: {{% resource_link "937d8a18-3f30-46a6-b952-372e945a87a9" "Botero pinta el
 Botero / Política
 {{< tdclose >}}{{< tdopen >}}
 
-Neruda, Pablo. Poema: {{% resource_link "db2ad515-dd61-465a-be13-5b3e7df280dc" "*La United Fruit Co*" %}}.
+Neruda, Pablo. Poema: [*La United Fruit Co*](http://web.archive.org/web/20090502055514/http://www.mi.uni-erlangen.de/~plaumann/cancionero/fruit.html).
 
 Artículo sobre los orígenes de la United Fruit en Centroamérica y el desarrollo de la Repúblicas Bananas.
 
-Más sobre Neruda: {{% resource_link "1868450a-3df1-4884-b8ad-6f2af85daa5a" "Página de Neruda" %}} por la Universidad de Chile, biografía, obras y fotos. {{% resource_link "7ae5d34e-7fff-4625-8745-2ade1d42b399" "Reportajes en Audio sobre Pablo Neruda" %}}.
+Más sobre Neruda: [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, biografía, obras y fotos. [Reportajes en Audio sobre Pablo Neruda](http://news.bbc.co.uk/hi/spanish/specials/2004/cien_anos_de_neruda/newsid_3887000/3887433.stm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 38
@@ -380,8 +380,8 @@ Feriado (cont.)
 Película: *Azúcar amarga*   
 Artículo de La Nación: *Cuba, una isla de dos caras*.   
 Para los que deseen explorar un poco más sobre Cuba:   
-{{% resource_link "0351a3f5-0fc0-472f-b370-f6a123b3c2a4" "Más información sobre Fidel Castro" %}} con grabaciones en audio y su discurso declarando el caracter socialista de la Revolución cubana.   
-{{% resource_link "f07be7f0-19ca-4425-9452-f19b97c19a2e" "Más información sobre el Ché Guevara" %}}, compañero de Fidel Castro durante la Revolución cubana.
+[Más información sobre Fidel Castro](http://www.bbc.co.uk/spanish/seriemilenio04.htm) con grabaciones en audio y su discurso declarando el caracter socialista de la Revolución cubana.   
+[Más información sobre el Ché Guevara](http://www.bbc.co.uk/spanish/seriemilenio02.htm), compañero de Fidel Castro durante la Revolución cubana.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 43
 {{< tdclose >}}{{< tdopen >}}

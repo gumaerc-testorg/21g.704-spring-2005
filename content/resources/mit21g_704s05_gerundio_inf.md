@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding gerundio o infinitivo?.
 file: /courses/21g-704-spanish-iv-spring-2005/ecd42bb89ff4a8d03bb57979d016b49e_MIT21G_704S05_gerundio_inf.pdf
+file_size: 89387
 file_type: application/pdf
 learning_resource_types:
 - Assignments
