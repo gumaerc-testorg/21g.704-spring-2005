@@ -4,6 +4,7 @@ description: This resource includes information about Material, Vocabulario de l
   lecturas, Gram?tica, Tipos de ejercicios.
 draft: false
 file: /courses/21g-704-spanish-iv-spring-2005/7de3e2a467e8c9668a66756f696cbfdf_MIT21G_704S05_sp4_exam1.pdf
+file_size: 581839
 file_type: application/pdf
 image_metadata:
   caption: ''
