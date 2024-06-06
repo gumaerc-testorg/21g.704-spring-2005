@@ -4,6 +4,7 @@ description: This resource includes information about Gram?tica, Lecturas, Pel?c
   and Vocabulario.
 draft: false
 file: /courses/21g-704-spanish-iv-spring-2005/2986c3f5090da7f05e1684145b9437d6_MIT21G_704S05_sp4_exam2.pdf
+file_size: 568598
 file_type: application/pdf
 image_metadata:
   caption: ''
