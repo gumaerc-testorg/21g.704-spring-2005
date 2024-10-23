@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about Gram?tica, Materiales discutidos
   and Vocabulario que debes conocer.
 draft: false
-file: /courses/21g-704-spanish-iv-spring-2005/d1a846cb15636b2e4ae85ae3bfaf153e_MIT21G_704S05_sp4_exam4.pdf
+file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/d1a846cb15636b2e4ae85ae3bfaf153e_MIT21G_704S05_sp4_exam4.pdf
 file_size: 573864
 file_type: application/pdf
 image_metadata:
