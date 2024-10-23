@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding entrevistas: voces de inmigrantes.'
-file: /courses/21g-704-spanish-iv-spring-2005/f7e0d9468acea96ccda3bdf3ba31b09f_MIT21G_704S05_vocesinmigra.pdf
+file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/f7e0d9468acea96ccda3bdf3ba31b09f_MIT21G_704S05_vocesinmigra.pdf
 file_size: 110310
 file_type: application/pdf
 learning_resource_types:
