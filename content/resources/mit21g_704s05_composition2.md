@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information regarding composici\xF3n #2."
-file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/8db440b0908e2a812f0d1b6b9b57936e_MIT21G_704S05_composition2.pdf
+file: /courses/21g-704-spanish-iv-spring-2005/8db440b0908e2a812f0d1b6b9b57936e_MIT21G_704S05_composition2.pdf
 file_size: 97307
 file_type: application/pdf
 learning_resource_types:
