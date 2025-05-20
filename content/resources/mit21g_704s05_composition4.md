@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding composici\xF3n 4: An\xE1\
   lisis, investigaci\xF3n y creaci\xF3n."
-file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/eb4035bc59ef661f8e9cba18a82be1d6_MIT21G_704S05_composition4.pdf
+file: /courses/21g-704-spanish-iv-spring-2005/eb4035bc59ef661f8e9cba18a82be1d6_MIT21G_704S05_composition4.pdf
 file_size: 116584
 file_type: application/pdf
 learning_resource_types:

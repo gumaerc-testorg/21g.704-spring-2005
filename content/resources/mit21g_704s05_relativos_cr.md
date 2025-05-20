@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding pronombres relativos.
-file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/9b381bd952493a613b9547bd001bb357_MIT21G_704S05_relativos_cr.pdf
+file: /courses/21g-704-spanish-iv-spring-2005/9b381bd952493a613b9547bd001bb357_MIT21G_704S05_relativos_cr.pdf
 file_size: 88260
 file_type: application/pdf
 learning_resource_types:
