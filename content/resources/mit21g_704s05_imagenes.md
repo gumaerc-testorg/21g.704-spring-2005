@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding espa\xF1a de cerca : Im\xE1\
   genes y estereotipos."
-file: /courses/21g-704-spanish-iv-spring-2005/13234e0aab60987527d3f98e6113c588_MIT21G_704S05_imagenes.pdf
+file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/13234e0aab60987527d3f98e6113c588_MIT21G_704S05_imagenes.pdf
 file_size: 99155
 file_type: application/pdf
 learning_resource_types:
