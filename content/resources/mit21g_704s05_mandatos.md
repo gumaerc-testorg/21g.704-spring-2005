@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding formaci\xF3n de mandatos\
   \ y verbos reflexivos."
-file: /courses/21g-704-spanish-iv-spring-2005/ca6192d8201d6a437a9a2102d6127988_MIT21G_704S05_mandatos.pdf
+file: /ol-ocw-studio-app/courses/21g-704-spanish-iv-spring-2005/ca6192d8201d6a437a9a2102d6127988_MIT21G_704S05_mandatos.pdf
 file_size: 103703
 file_type: application/pdf
 learning_resource_types:
