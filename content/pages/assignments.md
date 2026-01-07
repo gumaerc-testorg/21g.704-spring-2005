@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Assignments
 uid: 5c43c593-8120-feb1-4c3c-128d914d3de9
 ---
-Some sessions use video segments from {{% resource_link "696e39fc-3512-457d-b1f3-0a1f0cd6726c" "España hoy" %}}, an online collection of interviews and resources on contemporary Spanish life. 
+Some sessions use video segments from [España hoy](http://www.hoy.es/), an online collection of interviews and resources on contemporary Spanish life. 
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Día #
@@ -22,7 +22,7 @@ TAREA
 {{< tdclose >}}{{< tdopen >}}
 Introducción y presentación del curso
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "696e39fc-3512-457d-b1f3-0a1f0cd6726c" "España hoy" %}}: "Imágenes y estereotipos." Preguntas para la discusión. ({{% resource_link "13234e0a-ab60-9875-27d3-f98e6113c588" "PDF" %}})
+[España hoy](http://www.hoy.es/): "Imágenes y estereotipos." Preguntas para la discusión. ({{% resource_link "13234e0a-ab60-9875-27d3-f98e6113c588" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -59,7 +59,7 @@ Actividad problemas matrimoniales: ser-estar-haber -tener
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "696e39fc-3512-457d-b1f3-0a1f0cd6726c" "España hoy" %}}: Familia y Mujer. Guía de vocabulario y preguntas ({{% resource_link "ae973c34-f37f-03b4-7a95-f9e41b338b0f" "PDF" %}})
+[España hoy](http://www.hoy.es/): Familia y Mujer. Guía de vocabulario y preguntas ({{% resource_link "ae973c34-f37f-03b4-7a95-f9e41b338b0f" "PDF" %}})
 
 Anuncio comercial: ¿Sabes Limpiar?
 
@@ -181,7 +181,7 @@ Clave de corrección para las composiciones ({{% resource_link "31939444-2ce5-ee
 {{< tdclose >}}{{< tdopen >}}
 Poema: *Convocación de palabras*
 {{< tdclose >}}{{< tdopen >}}
-Cuento: *Un señor muy viejo con unas alas enormes*, {{% resource_link "c1076b92-cfd0-4362-82e1-ff662970d741" "Gabriel García Márquez" %}}. Guía de lectura y vocabulario.
+Cuento: *Un señor muy viejo con unas alas enormes*, [Gabriel García Márquez](http://www.bbc.co.uk/spanish/seriemilenio03.htm). Guía de lectura y vocabulario.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -320,11 +320,11 @@ Examina con cuidado el cuadro "La familia presidencial" del pintor colombiano, F
 
 Artículo: Botero, el debridador. Arte como testimonio de la violencia política en Colombia.
 
-Mira y escucha este reportaje audiovisual "{{% resource_link "8b22b22c-f19e-45e2-9ac8-18f16a15f33e" "Pintando una guerra" %}}" (en inglés)
+Mira y escucha este reportaje audiovisual "[Pintando una guerra](http://www.nytimes.com/packages/khtml/2004/05/03/arts/20040503_COLOMBIA_AUDIOSS.html)" (en inglés)
 
 Si te interesa saber más sobre este artista colombiano:    
-{{% resource_link "d8984838-82ac-4c9f-b99a-b001da3af749" "Museo Botero" %}}    
-Nuevo: {{% resource_link "a100f9f7-3b77-49b6-a18e-caf839cbae34" "Botero pinta el horror de Abu Ghraib" %}}, entrevista a Botero y cuadros de la exposición.
+[Museo Botero](http://www.banrep.gov.co/)    
+Nuevo: [Botero pinta el horror de Abu Ghraib](https://www.eltiempo.com/archivo/documento/MAM-1685402), entrevista a Botero y cuadros de la exposición.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
@@ -332,11 +332,11 @@ Nuevo: {{% resource_link "a100f9f7-3b77-49b6-a18e-caf839cbae34" "Botero pinta el
 Botero / Política
 {{< tdclose >}}{{< tdopen >}}
 
-Neruda, Pablo. Poema: {{% resource_link "24e92d20-dcd5-41ca-a64d-75e8719019e3" "*La United Fruit Co*" %}}.
+Neruda, Pablo. Poema: [*La United Fruit Co*](http://web.archive.org/web/20090502055514/http://www.mi.uni-erlangen.de/~plaumann/cancionero/fruit.html).
 
 Artículo sobre los orígenes de la United Fruit en Centroamérica y el desarrollo de la Repúblicas Bananas.
 
-Más sobre Neruda: {{% resource_link "91306b0a-40a5-463f-9731-a0922a8cda0e" "Página de Neruda" %}} por la Universidad de Chile, biografía, obras y fotos. {{% resource_link "696b3f47-9753-41a6-b6b0-de1c24c85dbc" "Reportajes en Audio sobre Pablo Neruda" %}}.
+Más sobre Neruda: [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, biografía, obras y fotos. [Reportajes en Audio sobre Pablo Neruda](http://news.bbc.co.uk/hi/spanish/specials/2004/cien_anos_de_neruda/newsid_3887000/3887433.stm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 38
@@ -376,8 +376,8 @@ Feriado (cont.)
 Película: *Azúcar amarga*    
 Artículo de La Nación: *Cuba, una isla de dos caras*.    
 Para los que deseen explorar un poco más sobre Cuba:    
-{{% resource_link "85e99ecb-de7b-4c7b-af1b-2bbcb0e5b15a" "Más información sobre Fidel Castro" %}} con grabaciones en audio y su discurso declarando el caracter socialista de la Revolución cubana.    
-{{% resource_link "97ab1683-c019-4618-98b5-b3d5fea6aaf0" "Más información sobre el Ché Guevara" %}}, compañero de Fidel Castro durante la Revolución cubana.
+[Más información sobre Fidel Castro](http://www.bbc.co.uk/spanish/seriemilenio04.htm) con grabaciones en audio y su discurso declarando el caracter socialista de la Revolución cubana.    
+[Más información sobre el Ché Guevara](http://www.bbc.co.uk/spanish/seriemilenio02.htm), compañero de Fidel Castro durante la Revolución cubana.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 43
 {{< tdclose >}}{{< tdopen >}}
